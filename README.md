@@ -1,2 +1,2 @@
-# web-scraper
+# Web Scraper
 Web Scraping Tool/Software
